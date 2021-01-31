@@ -6,7 +6,7 @@ This is React Typescript Shopping Cart Just try it. It is fully like you have to
 
 * [Ayush Kumar👨‍💻](https://github.com/Ayush7614)
 
-* [Live Preview]()
+* [Live Preview](https://typescript-shopping-cart.herokuapp.com/)
 
 ## web stack
 - HTML
