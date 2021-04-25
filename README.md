@@ -2,6 +2,9 @@
 
 This is React Typescript Shopping Cart Just try it. It is fully like you have to seen in Amazon, Flipkrat etc
 
+![Typescript_Shopping_Cart](https://socialify.git.ci/Ayush7614/Typescript_Shopping_Cart/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+
+
 ## Owner
 
 * [Ayush Kumar👨‍💻](https://github.com/Ayush7614)
